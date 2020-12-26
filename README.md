@@ -15,13 +15,13 @@ http://ec2-13-52-247-220.us-west-1.compute.amazonaws.com/
 3. Fill out the table below
 
 
-| Student Name         | Student Email                   | GitHub Username |   Roles
-|    :---:             |     :---:                       |     :---:       |   :---:
-| Nimiksha Mahajan     | nmahajan@mail.sfsu.edu          | Nimiksha        | Team Lead
-| Meet Patel           | mpatel6@mail.sfsu.edu           | loafr-bot       | Backend Lead/Database Lead
-| Luke Chang-Knezevich | lchangknezevich@mail.sfsu.edu   | LukeKnezCK      | Frontend Lead
-| Jungsun Eoh          | jeoh@mail.sfsu.edu              | Jungsun-eoh     | Backend/Database Engineer
-| Mike Bolanos         | mbolanos1@mail.sfsu.edu         | mbolanos1       | Git Master/Backend Engineer
-| Vincent Tse          | vtse3@mail.sfsu.edu             | vincenttse15    | Frontend Engineer/Server Admin
+| Student Name         | GitHub Username |   Roles
+|    :---:             |     :---:       |   :---:
+| Nimiksha Mahajan     | Nimiksha        | Team Lead
+| Meet Patel           | loafr-bot       | Backend Lead/Database Lead
+| Luke Chang-Knezevich | LukeKnezCK      | Frontend Lead
+| Jungsun Eoh          | Jungsun-eoh     | Backend/Database Engineer
+| Mike Bolanos         | mbolanos1       | Git Master/Backend Engineer
+| Vincent Tse          | vincenttse15    | Frontend Engineer/Server Admin
 
 ## NO code needs to be stored in the root of your repository. You may rename the application folder if you like to your team's application name. But all source code related to your team's application should be stored inside the application folder.
